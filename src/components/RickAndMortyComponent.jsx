@@ -56,7 +56,7 @@ const RickAndMortyComponent = () => {
   return (
     <div className="TotalPage">
       <nav>
-        <h1>Rick and Morty Characters</h1>
+        <h1>Rick and Morty</h1>
       </nav>
 
       <div className="search-container">
